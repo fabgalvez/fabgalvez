@@ -1,6 +1,7 @@
 var ps = 0 
 var cs = 0 
 
+var name = prompt("Hello new user! What is your name?")
 prompt("Would you like to play a game? Whoever gets the biggest randomly generated number wins. Please type Y or N")
 
 do{
